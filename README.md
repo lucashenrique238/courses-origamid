@@ -6,4 +6,4 @@ https://www.origamid.com
 - [x] 01 - Vue.js Completo
 - [x] 02 - Vue.js Para Iniciantes
 - [x] 03 - Diretivas e Hooks
-- [] 04 - Techno Projeto
+- [ ] 04 - Techno Projeto
