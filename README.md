@@ -3,8 +3,12 @@ Origamid front-end development courses files.
 https://www.origamid.com
 
 ## Web Design Completo
-- [ ] 01 - Introdução
-- [ ] 02 - Teoria do Design
+- [x] 01 - Introdução
+- [x] 02 - Teoria do Design
+- [ ] 03 - Design do Projeto
+- [ ] 04 - Básico de Codificação
+- [ ] 05 - Código do Projeto
+
 
 ## JavaScript Completo ES6
 - [x] 01 - JavaScript Completo ES6+
