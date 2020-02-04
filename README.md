@@ -5,7 +5,7 @@ https://www.origamid.com
 ## Web Design Completo
 - [x] 01 - Introdução
 - [x] 02 - Teoria do Design
-- [ ] 03 - Design do Projeto
+- [x] 03 - Design do Projeto
 - [ ] 04 - Básico de Codificação
 - [ ] 05 - Código do Projeto
 
