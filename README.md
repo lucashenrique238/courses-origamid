@@ -20,3 +20,4 @@ https://www.origamid.com
 - [x] 02 - Vue.js Para Iniciantes
 - [x] 03 - Diretivas e Hooks
 - [x] 04 - Techno Projeto
+- [ ] 05 - Componentes
